@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-FastestRank provides SEO intelligence tools for rank tracking, keyword and backlink research, site audits, and AI‑assistant integration. It helps businesses investigate search visibility, monitor competitors, and generate actionable reports to improve rankings and traffic.
+FastestRank provides rank tracking, keyword and backlink research, and site audits to help businesses investigate and improve search visibility. It offers AI‑assisted insights, competitor analysis, and customizable reporting for SEO professionals and marketers.
 
-**Areas:** SEO · AI · Rank-Tracking · Keyword-Research · Backlink-Analysis
+**Areas:** SEO · RankTracking · AI · Marketing · Analytics
 
 ## FastestRank on APIs.io
 
@@ -74,17 +74,16 @@ Everything profiled for FastestRank is published on APIs.io rather than in this 
 
 ### APIs (1)
 
-- [FastestRank API](https://apis.io/apis/fastestrank-com/fastestrank-api/) — API for FastestRank SEO tools, providing endpoints for rank tracking, keyword research, site audits, and AI assistant integration.
+- [FastestRank API](https://apis.io/apis/fastestrank-com/fastestrank-api/) — FastestRank API provides SEO rank tracking, keyword research, backlink analysis, and site audits via a RESTful interface.
 
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### Security (2)
+#### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Fastestrank Com Authentication](https://apis.io/security/fastestrank-com/fastestrank-com-authentication/)
 - [Fastestrank Com Domain Security](https://apis.io/security/fastestrank-com/fastestrank-com-domain-security/)
 
 #### Plans and pricing (1)
@@ -109,7 +108,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 27.7** — thin · rubric 0.27.0 · scored 2026-11-07
+**Kin Score 25.3** — emerging · rubric 0.27.0 · scored 2026-11-08
 
 | Facet | Score |
 |---|---|
@@ -117,7 +116,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 5.3 |
-| Developer ergonomics | 40.5 |
+| Developer ergonomics | 28.6 |
 | Access clarity | 63.7 |
 
 **Agent readiness 21.8** — agent-aware
